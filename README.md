@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer with Industrial Design Engineering background.
 
-I started working as UX/UI designer, evolving into a developer more than 7 years ago, first as a front-end and later as a full-stack specialized in data visualization, data platforms development and advanced web scrapers. My main stack is Python, Django, Vue and D3, and I have extensive experience with PHP, Wordpress, jQuery, Angular and design software. 
+I started working as a UX/UI designer, evolving to front-end and later to full-stack developer specialized in data visualization, data platforms and advanced web scrapers. My main stack is PostgreSQL, Python, Django, Vue and D3, and I have extensive experience with MongoDB, PHP, Wordpress, jQuery, Angular, AWS, GIS and design software.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Saigesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saigesp/)](https://www.linkedin.com/in/saigesp/)
 [![Twitter Badge](https://img.shields.io/badge/-Saigesp-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Saigesp)](https://twitter.com/Saigesp)
