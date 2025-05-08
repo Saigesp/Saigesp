@@ -1,8 +1,10 @@
 # Hello World!
 
-I'm a full-stack web developer with Industrial Design Engineering background.
+I'm a full-stack software engineer with a background in Industrial Design Engineering. Originally from Seville, I began my career in Barcelona and now live in Madrid, Spain.
 
-I started working as a UX/UI designer, evolving to front-end and later to full-stack developer specialized in data visualization, data platforms and advanced web scrapers. My main stack is PostgreSQL, Python, Django, Vue and D3, and I have extensive experience with MongoDB, PHP, Wordpress, jQuery, Angular, AWS, GIS and design software.
+I started out as a UX/UI designer and gradually transitioned into front-end development before becoming a full-stack developer. My work has focused on data visualization, data platforms, and advanced web scraping. My core tech stack includes PostgreSQL, Python, Django/FastAPI, Vue/Nuxt, and D3. I'm also experienced with MongoDB, PHP, WordPress, jQuery, Angular, AWS, GIS tools, and various design software. I work daily with Git and Jira and have hands-on experience with agile methodologies like SCRUM.
+
+Beyond my professional work, I’ve coordinated numerous non-profit projects, mostly centered around software, open data, and design.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Saigesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saigesp/)](https://www.linkedin.com/in/saigesp/)
 [![Twitter Badge](https://img.shields.io/badge/-Saigesp-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Saigesp)](https://twitter.com/Saigesp)
