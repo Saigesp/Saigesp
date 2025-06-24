@@ -15,7 +15,7 @@ Some of my public projects are:
 - [28M-calle-a-calle](https://datairahub.github.io/elecciones_28M/secciones.html): Street-by-street results of the 2023 municipal elections in Spain.
 - [vue-d3-charts](https://saigesp.github.io/vue-d3-charts/): Charts library build with reusability in mind.
 - [json-translate](https://github.com/Saigesp/json-translate): Translation script for json files with deepl API.
-- [provincia53](https://www.provincia53.com/): Storytelling about Western Sahara.
+- [provincia53](https://provincia53.com): Storytelling about Western Sahara.
 - [Ojito](https://ojito.politicalwatch.es/): Visualization of spanish political commitments.
 - [DS-Compass](https://ds-compass.protectioninternational.org/): Risk assessment tool for human rights defenders in hostile environments.
 - [OpenODS-Index](https://index.openods.es/): Fulfillment of the Sustainable Development Goals by public and private entities.
